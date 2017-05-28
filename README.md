@@ -1,5 +1,4 @@
 # Extended Kalman Filter Project Starter Code
-Self-Driving Car Engineer Nanodegree Program
 
 <p align="center">
     <img src="EKF.gif" width="480" alt="main_image" /><br>
