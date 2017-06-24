@@ -1,4 +1,4 @@
-# Extended Kalman Filter Project Starter Code
+# Extended Kalman Filter Project
 
 <p align="center">
     <img src="EKF.gif" width="480" alt="main_image" /><br>
